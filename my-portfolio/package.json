@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio",
+  "author": "devnrj07",
+  "description": "Portfolio App for showcasing my personal and professional work. This app is built by using next.js.",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.6.2"
+  }
+}
